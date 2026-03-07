@@ -151,13 +151,39 @@ clean, scalable solutions.
 ## 🚀 Featured Projects
 
 <div align="center">
-
-[![StudyStore](https://github-readme-stats.vercel.app/api/pin/?username=prerana-chavan&repo=StudyStore_Website&theme=react&hide_border=true&bg_color=0d1117&title_color=04D9FF&icon_color=04D9FF)](https://github.com/prerana-chavan/StudyStore_Website)
-&nbsp;&nbsp;
-[![Food Order App](https://github-readme-stats.vercel.app/api/pin/?username=prerana-chavan&repo=final-food-project&theme=react&hide_border=true&bg_color=0d1117&title_color=04D9FF&icon_color=04D9FF)](https://github.com/prerana-chavan/final-food-project)
-
-[![Art Gallery](https://github-readme-stats.vercel.app/api/pin/?username=prerana-chavan&repo=virtual-art-gallery&theme=react&hide_border=true&bg_color=0d1117&title_color=04D9FF&icon_color=04D9FF)](https://github.com/prerana-chavan/virtual-art-gallery)
-
+<table align="center">
+  <tr>
+    <td align="center" width="400">
+      <br />
+      <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="30" />
+      <h3><a href="https://github.com/prerana-chavan/StudyStore_Website">StudyStore_Website</a></h3>
+      <p>Full-stack e-commerce platform with Spring Boot, role-based auth & React frontend.</p>
+      <img src="https://img.shields.io/github/stars/prerana-chavan/StudyStore_Website?style=flat&color=04D9FF" />
+      <img src="https://img.shields.io/github/forks/prerana-chavan/StudyStore_Website?style=flat&color=04D9FF" />
+      <br /><br />
+    </td>
+    <td align="center" width="400">
+      <br />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" height="30" />
+      <h3><a href="https://github.com/prerana-chavan/final-food-project">final-food-project</a></h3>
+      <p>MERN stack food ordering platform with real-time dashboard and online payments.</p>
+      <img src="https://img.shields.io/github/stars/prerana-chavan/final-food-project?style=flat&color=04D9FF" />
+      <img src="https://img.shields.io/github/forks/prerana-chavan/final-food-project?style=flat&color=04D9FF" />
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" width="400">
+      <br />
+      <img src="https://skillicons.dev/icons?i=php,mysql,html" height="30" />
+      <h3><a href="https://github.com/prerana-chavan/virtual-art-gallery">virtual-art-gallery</a></h3>
+      <p>PHP-based interactive platform for showcasing artworks and connecting artists.</p>
+      <img src="https://img.shields.io/github/stars/prerana-chavan/virtual-art-gallery?style=flat&color=04D9FF" />
+      <img src="https://img.shields.io/github/forks/prerana-chavan/virtual-art-gallery?style=flat&color=04D9FF" />
+      <br /><br />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
