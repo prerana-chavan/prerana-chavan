@@ -16,17 +16,17 @@
 
 ## 🧠 About Me
 
-My journey into the world of technology started with a simple curiosity: **"How can I build things that solve real problems?"** As a **Computer Engineering Student**, I found my answer in code. 
+Final-year CS Engineering student from **Ahmednagar, India 🇮🇳** with a **CGPA of 9.31**,
+passionate about building full-stack apps that are as clean under the hood as they look on screen.
 
-What began as tinkering with HTML/CSS has evolved into a passion for building full-stack applications that are as functional as they are beautiful. Whether it's architecting a robust e-commerce backend with **Spring Boot** or crafting a seamless user experience with **React**, I thrive on the challenge of turning complex ideas into clean, scalable solutions.
+I've interned at **ScaleFull Technologies, Pune** (MERN Stack) and currently building
+**StudyStore** — an e-commerce platform with Spring Boot, role-based auth & React frontend.
 
-I believe that great software isn't just about lines of code—it's about empathy for the user and attention to detail. That’s why I’m constantly learning, from mastering **System Design** to exploring **Cloud Native** architectures, always with the goal of shipping high-quality software that makes a difference.
+I work across **Java Full Stack** and **MERN Stack**, and I'm always leveling up —
+currently deep in **System Design** and **Cloud Native** architectures.
 
-When I'm not in front of a screen, you'll probably find me exploring new UI trends or diving into a good book on architecture. Let's build something amazing together! 🚀
-
-<p align="center">
-  <b>📍 India 🇮🇳 | 🎓 Computer Engineering Student | ✨ Cleaning Code & Pixel-Perfect UIs</b>
-</p>
+> 🎯 Seeking SDE / internship roles &nbsp;|&nbsp; 🤝 Open to open source collabs
+> 📍 Ahmednagar, India &nbsp;|&nbsp; ⚡ *"Clean code + pixel-perfect UIs — I refuse to compromise on either."*
 
 ---
 
