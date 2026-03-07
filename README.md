@@ -119,8 +119,11 @@ clean, scalable solutions.
 
 <div align="center">
 
+<!-- Temporarily commented out due to service downtime -->
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prerana-chavan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerana-chavan&layout=compact&theme=react&hide_border=true&bg_color=0d1117"/>
+-->
 
 </div>
 
@@ -132,7 +135,15 @@ clean, scalable solutions.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=prerana-chavan&theme=react&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📈 Contribution Graph
 
