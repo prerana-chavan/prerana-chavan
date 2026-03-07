@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20I'm%20Prerana%20Chavan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Engineering%20Student%20%7C%20Tech%20Enthusiast&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00242c,50:008080,100:00c2cb&height=200&section=header&text=Hey%20I'm%20Prerana%20Chavan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Engineering%20Student%20%7C%20Tech%20Enthusiast&descAlignY=58&descAlign=50)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps+⚡;Computer+Engineering+Student+🎓;React+%7C+Node.js+%7C+Spring+Boot;Always+learning%2C+always+shipping+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps+⚡;Computer+Engineering+Student+🎓;React+%7C+Node.js+%7C+Spring+Boot;Always+learning%2C+always+shipping+🚀)](https://git.io/typing-svg)
 
 <!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=prerana-chavan&style=for-the-badge&color=7C3AED)
-[![GitHub followers](https://img.shields.io/github/followers/prerana-chavan?style=for-the-badge&color=7C3AED)](https://github.com/prerana-chavan)
+![Profile Views](https://komarev.com/ghpvc/?username=prerana-chavan&style=for-the-badge&color=0891B2)
+[![GitHub followers](https://img.shields.io/github/followers/prerana-chavan?style=for-the-badge&color=0891B2)](https://github.com/prerana-chavan)
 
 </div>
 
@@ -16,16 +16,18 @@
 
 ## 🧠 About Me
 
-```typescript
-const me = {
-  name:       "Prerana Chavan",
-  role:       "Full Stack Developer",
-  location:   "India 🇮🇳",
-  focus:      ["Full Stack Development", "Web Apps", "Computer Engineering"],
-  currently:  "Building interactive React & Spring Boot applications 🔥",
-  ask_me_about: ["React", "JavaScript", "Java"]
-};
-```
+<div align="center">
+
+| 🛠️ Working On | 📚 Learning | 💬 Ask Me About |
+| :--- | :--- | :--- |
+| **Interactive React & Spring Boot Apps** | **Advanced System Design** | **React, JavaScript, Java** |
+| Building modern, scalable web solutions. | Exploring cloud-native architectures. | Always happy to chat about code & design! |
+
+</div>
+
+<p align="center">
+  <b>📍 India 🇮🇳 | 🎓 Computer Engineering Student | ✨ Cleaning Code & Pixel-Perfect UIs</b>
+</p>
 
 ---
 
@@ -117,14 +119,14 @@ const me = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prerana-chavan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerana-chavan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prerana-chavan&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerana-chavan&layout=compact&theme=merko&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prerana-chavan&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prerana-chavan&theme=merko&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -134,7 +136,7 @@ const me = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prerana-chavan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prerana-chavan&theme=merko&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -142,7 +144,7 @@ const me = {
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prerana-chavan&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prerana-chavan&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -178,4 +180,4 @@ const me = {
 </div>
 
 <!-- Footer wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00242c,50:008080,100:00c2cb&height=100&section=footer)
