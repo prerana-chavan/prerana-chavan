@@ -34,37 +34,84 @@ const me = {
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>Java</b></td>
+    <td align="center" width="120"><b>JavaScript</b></td>
+    <td align="center" width="120"><b>PHP</b></td>
+    <td align="center" width="120"><b>SQL</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="50" /></td>
+  </tr>
+</table>
 
 ### 🔗 Backend Technologies
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=postman&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>Spring</b></td>
+    <td align="center" width="120"><b>Hibernate</b></td>
+    <td align="center" width="120"><b>Node.js</b></td>
+    <td align="center" width="120"><b>Express</b></td>
+    <td align="center" width="120"><b>REST API</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=hibernate" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" height="50" /></td>
+  </tr>
+</table>
 
 ### 🌐 Frontend Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>React</b></td>
+    <td align="center" width="120"><b>Bootstrap</b></td>
+    <td align="center" width="120"><b>HTML5</b></td>
+    <td align="center" width="120"><b>CSS3</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="50" /></td>
+  </tr>
+</table>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>MySQL</b></td>
+    <td align="center" width="120"><b>MongoDB</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="50" /></td>
+  </tr>
+</table>
 
 ### 🛠️ Tools & IDEs
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql-workbench&logoColor=white)
-![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>Git</b></td>
+    <td align="center" width="120"><b>VS Code</b></td>
+    <td align="center" width="120"><b>Eclipse</b></td>
+    <td align="center" width="120"><b>STS</b></td>
+    <td align="center" width="120"><b>Postman</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=eclipse" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" height="50" /></td>
+  </tr>
+</table>
 
 ---
 
