@@ -97,9 +97,11 @@ const me = {
 
 <div align="center">
 
-[![StudyStore](https://github-readme-stats.vercel.app/api/pin/?username=prerana-chavan&repo=StudyStore_Website&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/prerana-chavan/StudyStore_Website)
-[![FoodOrder](https://github-readme-stats.vercel.app/api/pin/?username=prerana-chavan&repo=final-food-project&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/prerana-chavan/final-food-project)
-[![ArtGallery](https://github-readme-stats.vercel.app/api/pin/?username=prerana-chavan&repo=virtual-art-gallery&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/prerana-chavan/virtual-art-gallery)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[StudyStore_Website](https://github.com/prerana-chavan/StudyStore_Website)** | Full-stack e-commerce platform with Spring Boot. | `Java` `Spring` `MySQL` |
+| **[final-food-project](https://github.com/prerana-chavan/final-food-project)** | MERN stack food ordering platform with real-time dashboard. | `React` `Node` `MongoDB` |
+| **[virtual-art-gallery](https://github.com/prerana-chavan/virtual-art-gallery)** | PHP-based interactive platform for showcasing artworks. | `PHP` `MySQL` `HTML/CSS` |
 
 </div>
 
