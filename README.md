@@ -12,7 +12,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🧠 About Me
 
@@ -29,7 +29,7 @@ clean, scalable solutions.
 > 📍 Ahmednagar, India &nbsp;|&nbsp; 
 
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -113,7 +113,7 @@ clean, scalable solutions.
   </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -130,15 +130,23 @@ clean, scalable solutions.
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=prerana-chavan&theme=react&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prerana-chavan&bg_color=0d1117&color=04D9FF&line=04D9FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -176,7 +184,7 @@ clean, scalable solutions.
 </table>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🌐 Connect With Me
 
@@ -188,7 +196,7 @@ clean, scalable solutions.
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <!-- Snake animation -->
 <div align="center">
