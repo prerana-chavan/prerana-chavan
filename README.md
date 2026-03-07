@@ -152,11 +152,11 @@ clean, scalable solutions.
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[StudyStore_Website](https://github.com/prerana-chavan/StudyStore_Website)** | Full-stack e-commerce platform with Spring Boot. | `Java` `Spring` `MySQL` |
-| **[final-food-project](https://github.com/prerana-chavan/final-food-project)** | MERN stack food ordering platform with real-time dashboard. | `React` `Node` `MongoDB` |
-| **[virtual-art-gallery](https://github.com/prerana-chavan/virtual-art-gallery)** | PHP-based interactive platform for showcasing artworks. | `PHP` `MySQL` `HTML/CSS` |
+[![StudyStore](https://github-readme-stats.vercel.app/api/pin/?username=prerana-chavan&repo=StudyStore_Website&theme=react&hide_border=true&bg_color=0d1117&title_color=04D9FF&icon_color=04D9FF)](https://github.com/prerana-chavan/StudyStore_Website)
+&nbsp;&nbsp;
+[![Food Order App](https://github-readme-stats.vercel.app/api/pin/?username=prerana-chavan&repo=final-food-project&theme=react&hide_border=true&bg_color=0d1117&title_color=04D9FF&icon_color=04D9FF)](https://github.com/prerana-chavan/final-food-project)
+
+[![Art Gallery](https://github-readme-stats.vercel.app/api/pin/?username=prerana-chavan&repo=virtual-art-gallery&theme=react&hide_border=true&bg_color=0d1117&title_color=04D9FF&icon_color=04D9FF)](https://github.com/prerana-chavan/virtual-art-gallery)
 
 </div>
 
