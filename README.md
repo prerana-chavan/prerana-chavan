@@ -153,7 +153,7 @@ clean, scalable solutions.
 <div align="center">
 <table align="center">
   <tr>
-    <td align="center" width="400">
+    <td align="center" width="300">
       <br />
       <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="30" />
       <h3><a href="https://github.com/prerana-chavan/StudyStore_Website">StudyStore_Website</a></h3>
@@ -162,7 +162,7 @@ clean, scalable solutions.
       <img src="https://img.shields.io/github/forks/prerana-chavan/StudyStore_Website?style=flat&color=04D9FF" />
       <br /><br />
     </td>
-    <td align="center" width="400">
+    <td align="center" width="300">
       <br />
       <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" height="30" />
       <h3><a href="https://github.com/prerana-chavan/final-food-project">final-food-project</a></h3>
@@ -171,9 +171,7 @@ clean, scalable solutions.
       <img src="https://img.shields.io/github/forks/prerana-chavan/final-food-project?style=flat&color=04D9FF" />
       <br /><br />
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" width="400">
+    <td align="center" width="300">
       <br />
       <img src="https://skillicons.dev/icons?i=php,mysql,html" height="30" />
       <h3><a href="https://github.com/prerana-chavan/virtual-art-gallery">virtual-art-gallery</a></h3>
