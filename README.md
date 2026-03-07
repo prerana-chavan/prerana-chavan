@@ -19,14 +19,15 @@
 Final-year CS Engineering student from **Ahmednagar, India 🇮🇳** with a **CGPA of 9.31**,
 passionate about building full-stack apps that are as clean under the hood as they look on screen.
 
-I've interned at **ScaleFull Technologies, Pune** (MERN Stack) and built
-**StudyStore** — a complete e-commerce platform with Spring Boot.
+I've interned at **ScaleFull Technologies, Pune** (MERN Stack) and currently building
+**StudyStore** — an e-commerce platform with Spring Boot, role-based auth & React frontend.
 
-I work across **Java Full Stack** and **MERN Stack**, turning complex ideas into
-clean, scalable solutions.
+I work across **Java Full Stack** and **MERN Stack**, and I'm always leveling up —
+currently deep in **System Design** and **Cloud Native** architectures.
 
 > 🎯 Seeking SDE / internship roles &nbsp;|&nbsp; 🤝 Open to open source collabs
-> 📍 Ahmednagar, India &nbsp;|&nbsp; 
+> 📍 Ahmednagar, India &nbsp;|&nbsp; ⚡ *"Clean code + pixel-perfect UIs — I refuse to compromise on either."*
+
 ---
 
 ## 🛠️ Tech Stack
@@ -51,6 +52,7 @@ clean, scalable solutions.
 <table align="center">
   <tr>
     <td align="center" width="120"><b>Spring</b></td>
+    <td align="center" width="120"><b>Spring Boot</b></td>
     <td align="center" width="120"><b>Hibernate</b></td>
     <td align="center" width="120"><b>Node.js</b></td>
     <td align="center" width="120"><b>Express</b></td>
@@ -58,10 +60,11 @@ clean, scalable solutions.
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="50" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=hibernate" height="50" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="40" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" height="50" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" height="50" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" /></td>
   </tr>
 </table>
 
@@ -99,14 +102,12 @@ clean, scalable solutions.
     <td align="center" width="120"><b>Git</b></td>
     <td align="center" width="120"><b>VS Code</b></td>
     <td align="center" width="120"><b>Eclipse</b></td>
-    <td align="center" width="120"><b>STS</b></td>
     <td align="center" width="120"><b>Postman</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=eclipse" height="50" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" height="50" /></td>
   </tr>
 </table>
