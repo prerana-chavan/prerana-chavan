@@ -19,15 +19,14 @@
 Final-year CS Engineering student from **Ahmednagar, India 🇮🇳** with a **CGPA of 9.31**,
 passionate about building full-stack apps that are as clean under the hood as they look on screen.
 
-I've interned at **ScaleFull Technologies, Pune** (MERN Stack) and currently building
-**StudyStore** — an e-commerce platform with Spring Boot, role-based auth & React frontend.
+I've interned at **ScaleFull Technologies, Pune** (MERN Stack) and built
+**StudyStore** — a complete e-commerce platform with Spring Boot.
 
-I work across **Java Full Stack** and **MERN Stack**, and I'm always leveling up —
-currently deep in **System Design** and **Cloud Native** architectures.
+I work across **Java Full Stack** and **MERN Stack**, turning complex ideas into
+clean, scalable solutions.
 
 > 🎯 Seeking SDE / internship roles &nbsp;|&nbsp; 🤝 Open to open source collabs
-> 📍 Ahmednagar, India &nbsp;|&nbsp; ⚡ *"Clean code + pixel-perfect UIs — I refuse to compromise on either."*
-
+> 📍 Ahmednagar, India &nbsp;|&nbsp; 
 ---
 
 ## 🛠️ Tech Stack
