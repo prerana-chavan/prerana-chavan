@@ -23,9 +23,7 @@ const me = {
   location:   "India 🇮🇳",
   focus:      ["Full Stack Development", "Web Apps", "Computer Engineering"],
   currently:  "Building interactive React & Spring Boot applications 🔥",
-  learning:   ["Advanced System Design", "Cloud Native Architectures"],
-  ask_me_about: ["React", "JavaScript", "Java", "Web Design 🎨"],
-  fun_fact:   "I love clean code and pixel-perfect UIs!",
+  ask_me_about: ["React", "JavaScript", "Java"]
 };
 ```
 
