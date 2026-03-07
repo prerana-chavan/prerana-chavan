@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5f6d,50:ff7b54,100:ffc371&height=200&section=header&text=Hey%20I'm%20Prerana%20Chavan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Engineering%20Student%20%7C%20Tech%20Enthusiast&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:041C32,50:064663,100:04D9FF&height=200&section=header&text=Hey%20I'm%20Prerana%20Chavan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Engineering%20Student%20%7C%20Tech%20Enthusiast&descAlignY=58&descAlign=50)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5F6D&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps+⚡;Computer+Engineering+Student+🎓;React+%7C+Node.js+%7C+Spring+Boot;Always+learning%2C+always+shipping+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps+⚡;Computer+Engineering+Student+🎓;React+%7C+Node.js+%7C+Spring+Boot;Always+learning%2C+always+shipping+🚀)](https://git.io/typing-svg)
 
 <!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=prerana-chavan&style=for-the-badge&color=FF5F6D)
-[![GitHub followers](https://img.shields.io/github/followers/prerana-chavan?style=for-the-badge&color=FF5F6D)](https://github.com/prerana-chavan)
+![Profile Views](https://komarev.com/ghpvc/?username=prerana-chavan&style=for-the-badge&color=04D9FF)
+[![GitHub followers](https://img.shields.io/github/followers/prerana-chavan?style=for-the-badge&color=04D9FF)](https://github.com/prerana-chavan)
 
 </div>
 
@@ -119,14 +119,14 @@ clean, scalable solutions.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prerana-chavan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerana-chavan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prerana-chavan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerana-chavan&layout=compact&theme=react&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prerana-chavan&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prerana-chavan&theme=react&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -136,7 +136,7 @@ clean, scalable solutions.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prerana-chavan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prerana-chavan&theme=react&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -144,7 +144,7 @@ clean, scalable solutions.
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prerana-chavan&bg_color=0d1117&color=ff5f6d&line=ff5f6d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prerana-chavan&bg_color=0d1117&color=04D9FF&line=04D9FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -180,4 +180,4 @@ clean, scalable solutions.
 </div>
 
 <!-- Footer wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff5f6d,50:ff7b54,100:ffc371&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:041C32,50:064663,100:04D9FF&height=100&section=footer)
